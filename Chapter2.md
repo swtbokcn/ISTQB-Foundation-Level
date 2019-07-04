@@ -1,5 +1,6 @@
 # **2. 贯穿软件开发生命周期的测试 **
 **关键字**
+
 验收测试(acceptance testing)， alpha测试 (alpha testing)， beta 测试(beta testing)， 商业现货软件(commercial off-the-shelf (COTS))， 组件集成测试(component integration testing)， 组件测试(component testing)， 确认测试(confirmation testing)， 合同验收测试(contractual acceptance testing)， 功能测试(functional testing)， 影响分析(impact analysis)， 集成测试(integration testing)， 维护测试(maintenance testing)， 非功能测试(non-functional testing)， 运行验收测试(operational acceptance testing)， 回归测试(regression testing)， 法规验收测试(regulatory acceptance testing)， 顺序开发模型(sequential development model)， 系统集成测试(system integration testing)， 系统测试(system testing)， 测试依据(test basis)， 测试用例(test case)， 测试环境(test environment)， 测试级别(test level)， 测试对象(test object)， 测试目标(test objective)， 测试类型(test type)， 用户验收测试(user acceptance testing)， 白盒测试(white-box testing) 
 
 **贯穿软件开发生命周期的测试的学习目标**
