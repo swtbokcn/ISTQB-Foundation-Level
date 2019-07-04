@@ -49,7 +49,7 @@ V1.0的作者包括：董昌丽、黄蓺戈、林海、马均飞、史颜英、�
   * [**6.1 测试工具的考虑**](./Chapter6.md#61-测试工具的考虑)
   * [**6.2有效使用工具**](./Chapter6.md#62有效使用工具)
 - [**7 参考资料和标准**](/Reference.md#7-参考资料和标准)
-  * [**ISTQB 文档 **](/Reference.md#ISTQB文档)
+  * [**ISTQB 文档**](/Reference.md#ISTQB-文档)
   * [**书和文献**](/Reference.md#书和文献)
   * [**其他**](/Reference.md#其他)
 
