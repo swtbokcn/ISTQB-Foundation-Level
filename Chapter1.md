@@ -1,6 +1,7 @@
 # **1 软件测试基础**
 
-*关键字**
+**关键字**
+
 覆盖率（coverage）， 调试（debugging）， 缺陷（defect），错误（ error）， 失效（failure）， 质量（quality）， 质量保证（quality assurance），根本原因（ root cause）， 测试分析（test analysis）， 测试依据（test basis）， 测试用例（test case）， 测试完成（test completion），测试条件（ test condition）， 测试控制（test control）， 测试数据（test data）， 测试设计（test design）， 测试执行（test execution）， 测试执行进度（test execution schedule）， 测试实现（test implementation）， 测试监视（test monitoring）， 测试对象（test object）， 测试目标（test objective）， 测试准则（test oracle）， 测试计划（test planning）， 测试规程（test procedure）， 测试套件（test suite）， 测试（testing）， 测试件（testware）， 可追溯性（traceability）， 确认（validation）， 验证（verification）
 
 **软件测试基础的学习目标**
